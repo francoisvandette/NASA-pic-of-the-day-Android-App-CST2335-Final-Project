@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Francois\' NASA image viewer</string>
+    <string name="mainTitleHeading">Title: </string>
+    <string name="mainTitleContent" translatable="false"></string>
+    <string name="mainExplanationHeading">Explanation: </string>
+    <string name="mainExplanationContent" translatable="false"></string>
+    <string name="mainURLHeading">URL: </string>
+    <string name="mainURLContent" translatable="false"></string>
+    <string name="mainHDURLHeading">HD Link: </string>
+    <string name="mainHDURLContent" translatable="false"></string>
+    <string name="mainDateHeading">Date: </string>
+    <string name="mainDateContent" translatable="false"></string>
+    <string name="mainDatePickerButton">Pick Date</string>
+    <string name="mainDateFetchDateContent">Fetch Image</string>
+    <string name="mainDateSelectedTitle">Selected Date:</string>
+    <string name="mainFavouriteThisImage">Favourite This Image</string>
+    <string name="imageSaved">Image favourited &amp; saved to device</string>
+    <string name="imageExists">Image already favourited</string>
+    <string name="favDeetsURLContent" translatable="false">deets url</string>
+    <string name="hide">Hide</string>
+    <string name="likeToDelete">Would you like to delete this?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="usernamehint">Go set your username!</string>
+    <string name="appTitle">NASA Image Viewer v1</string>
+    <string name="navMenuHome">Home Page</string>
+    <string name="navMenuFavourites">Favourites</string>
+    <string name="navMenuAccount">Account Info</string>
+    <string name="navMenuAbout">About &amp; Thanks</string>
+    <string name="headerMenuTitle">Nav Items</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="HelpButton">Help Button</string>
+    <string name="howToUse">How to use this page...</string>
+    <string name="howToMain">1) Click the \'Pick Date\' button to select a date. \n2) Push \'Fetch Image\' to get the image. \n\nClick the \'Favourite This Image\' button to add it to your favourites.</string>
+    <string name="howToFavs">Click on any of your favourited items to get more details on it.</string>
+    <string name="howToAccount">Here you can set your username that appears on the Home screen.</string>
+    <string name="howToAbout">This is just an about page with thank yous to the creators of the icons.</string>
+    <string name="accountInputUsername">Input your username here</string>
+    <string name="accountButton">Save Username</string>
+    <string name="usernameSaved">Username saved.</string>
+    <string name="welcome">Welcome,</string>
+    <string name="favTitle">Favourites!</string>
+    <string name="accountTitle">Account</string>
+    <string name="aboutTitle">About</string>
+    <string name="thanksSpace">itim2101 \nhttps://www.flaticon.com/authors/itim2101</string>
+    <string name="thanksHelp">alkhalifi design \nhttps://www.flaticon.com/authors/alkhalifi-design</string>
+    <string name="thanksAccount">Phoenix Group \nhttps://www.flaticon.com/authors/phoenix-group</string>
+    <string name="thanksHeart">Gregor Cresnar \nhttps://www.flaticon.com/authors/gregor-cresnar</string>
+    <string name="thanksInfo">Tempo_doloe \nhttps://www.flaticon.com/authors/tempo-doloe</string>
+</resources>

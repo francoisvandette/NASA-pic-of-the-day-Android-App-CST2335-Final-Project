@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Francois\' visionneuse d\'images de la NASA</string>
+    <string name="mainTitleHeading">Titre:</string>
+    <string name="mainExplanationHeading">Explication:</string>
+    <string name="mainURLHeading">URL:</string>
+    <string name="mainHDURLHeading">URL HD:</string>
+    <string name="mainDateHeading">Date:</string>
+    <string name="mainDatePickerButton">Choisir la date</string>
+    <string name="mainDateFetchDateContent">Obtenez l\'image</string>
+    <string name="mainDateSelectedTitle">Date Sélectionnée</string>
+    <string name="mainFavouriteThisImage">Favoris cette image</string>
+    <string name="imageSaved">Image favorite et enregistrée sur l\'appareil</string>
+    <string name="imageExists">Image déjà favorite</string>
+    <string name="hide">Cacher</string>
+    <string name="likeToDelete">Souhaitez-vous supprimer cela ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="usernamehint">Allez définir votre nom d\'utilisateur!</string>
+    <string name="appTitle">Visionneuse d\'images de la NASA v1</string>
+    <string name="navMenuHome">Page d\'accueil</string>
+    <string name="navMenuFavourites">Favoris</string>
+    <string name="navMenuAccount">Informations de compte</string>
+    <string name="navMenuAbout">À propos et remerciements</string>
+    <string name="headerMenuTitle">Éléments de navigation</string>
+    <string name="open">Ouvert</string>
+    <string name="close">Fermer</string>
+    <string name="HelpButton">Bouton d\'aide</string>
+    <string name="howToUse">Comment utiliser cette page...</string>
+    <string name="howToMain">1) Cliquez sur le bouton « Choisir une date » pour sélectionner une date. \n2) Appuyez sur « Récupérer l\'image » pour obtenir l\'image. \n\nCliquez sur le bouton « Favoriser cette image » pour l\'ajouter à vos favoris.</string>
+    <string name="howToFavs">Cliquez sur l\'un de vos articles préférés pour obtenir plus de détails à ce sujet.</string>
+    <string name="howToAccount">Ici, vous pouvez définir votre nom d\'utilisateur qui apparaît sur l\'écran d\'accueil.</string>
+    <string name="howToAbout">Ceci est juste une page à propos avec des remerciements aux créateurs des icônes.</string>
+    <string name="accountInputUsername">Entrez votre nom d\'utilisateur ici</string>
+    <string name="accountButton">Enregistrer le nom d\'utilisateur</string>
+    <string name="usernameSaved">Nom d\'utilisateur enregistré.</string>
+    <string name="welcome">Bonjour,</string>
+    <string name="favTitle">Favoris!</string>
+    <string name="accountTitle">Compte</string>
+    <string name="aboutTitle">À propos</string>
+    <string name="thanksSpace">itim2101 \nhttps://www.flaticon.com/authors/itim2101</string>
+    <string name="thanksHelp">alkhalifi design \nhttps://www.flaticon.com/authors/alkhalifi-design</string>
+    <string name="thanksAccount">Phoenix Group \nhttps://www.flaticon.com/authors/phoenix-group</string>
+    <string name="thanksHeart">Gregor Cresnar \nhttps://www.flaticon.com/authors/gregor-cresnar</string>
+    <string name="thanksInfo">Tempo_doloe \nhttps://www.flaticon.com/authors/tempo-doloe</string>
+</resources>
